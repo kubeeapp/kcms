@@ -1,0 +1,81 @@
+{
+  "name": "kubeeapp/kcms",
+  "type": "project",
+  "license": "MIT",
+  "description": "KCMS boilerplate with modern development tools, easier configuration, and an improved folder structure",
+  "homepage": "https://kubee.ga/kcms/",
+  "authors": [
+    {
+      "name": "Romeo Covaci",
+      "email": "romeo.covaci@gmail.com",
+      "homepage": "https://github.com/romeocovaci"
+    },
+    {
+      "name": "Brand Li",
+      "email": "brandli.ro@gmail.com",
+      "homepage": "https://github.com/brand-li"
+    }
+  ],
+  "keywords": [
+    "kubeeapp", "composer", "kcms", "content management", "kubee", "vue"
+  ],
+  "support": {
+    "issues": "https://github.com/roots/kcms/issues",
+    "forum": "https://discourse.kubee.ga/category/kcms"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org",
+      "only": ["wpackagist-plugin/*", "wpackagist-theme/*"]
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:kubeeapp/kcms-autoloader.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:kubeeapp/cms-config.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:kubeeapp/cms-password-bcrypt.git"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "composer/installers": "^1.8",
+    "vlucas/phpdotenv": "^4.1.5",
+    "oscarotero/env": "^2.0",
+    "kubeeapp/kcms-autoloader": "^1.0",
+    "roots/wordpress": "5.4.1",
+    "kubeeapp/cms-config": "1.0.0",
+    "kubeeapp/cms-password-bcrypt": "1.0.0"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.5.4",
+    "roave/security-advisories": "dev-master"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "installer-paths": {
+      "web/app/mu-plugins/{$name}/": ["type:wordpress-muplugin"],
+      "web/app/plugins/{$name}/": ["type:wordpress-plugin"],
+      "web/app/themes/{$name}/": ["type:wordpress-theme"]
+    },
+    "wordpress-install-dir": "web/wp"
+  },
+  "scripts": {
+    "post-root-package-install": [
+      "php -r \"copy('.env.example', '.env');\""
+    ],
+    "test": [
+      "phpcs"
+    ]
+  }
+}
