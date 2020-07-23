@@ -55,6 +55,7 @@
     "roots/wordpress": "5.4.1",
     "kubeeapp/cms-config": "1.0.0",
     "kubeeapp/cms-password-bcrypt": "1.0.0",
+    "kubeeapp/kcms-url": "^1.1",
     "kubeeapp/kcms-push": "3.2.0"
   },
   "require-dev": {
