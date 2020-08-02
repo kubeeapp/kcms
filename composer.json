@@ -1,49 +1,33 @@
 {
-  "name": "kubeeapp/kcms",
+  "name": "roots/bedrock",
   "type": "project",
   "license": "MIT",
-  "description": "KCMS boilerplate with modern development tools, easier configuration, and an improved folder structure",
-  "homepage": "https://kubee.ga/kcms/",
+  "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
+  "homepage": "https://roots.io/bedrock/",
   "authors": [
     {
-      "name": "Romeo Covaci",
-      "email": "romeo.covaci@gmail.com",
-      "homepage": "https://github.com/romeocovaci"
+      "name": "Scott Walkinshaw",
+      "email": "scott.walkinshaw@gmail.com",
+      "homepage": "https://github.com/swalkinshaw"
     },
     {
-      "name": "Brand Li",
-      "email": "brandli.ro@gmail.com",
-      "homepage": "https://github.com/brand-li"
+      "name": "Ben Word",
+      "email": "ben@benword.com",
+      "homepage": "https://github.com/retlehs"
     }
   ],
   "keywords": [
-    "kubeeapp", "composer", "kcms", "content management", "kubee", "vue"
+    "bedrock", "composer", "roots", "wordpress", "wp", "wp-config"
   ],
   "support": {
-    "issues": "https://github.com/roots/kcms/issues",
-    "forum": "https://discourse.kubee.ga/category/kcms"
+    "issues": "https://github.com/roots/bedrock/issues",
+    "forum": "https://discourse.roots.io/category/bedrock"
   },
   "repositories": [
     {
       "type": "composer",
       "url": "https://wpackagist.org",
       "only": ["wpackagist-plugin/*", "wpackagist-theme/*"]
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:kubeeapp/kcms-autoloader.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:kubeeapp/cms-config.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:kubeeapp/cms-password-bcrypt.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:kubeeapp/kcms-push.git"
     }
   ],
   "require": {
@@ -51,12 +35,10 @@
     "composer/installers": "^1.8",
     "vlucas/phpdotenv": "^4.1.5",
     "oscarotero/env": "^2.0",
-    "kubeeapp/kcms-autoloader": "^1.0",
-    "kubeeapp/cms": "5.4.1",
-    "kubeeapp/cms-config": "1.0.0",
-    "kubeeapp/cms-password-bcrypt": "1.0.0",
-    "kubeeapp/kcms-url": "^1.1",
-    "kubeeapp/kcms-push": "3.2.0"
+    "roots/bedrock-autoloader": "^1.0",
+    "roots/wordpress": "5.4.1",
+    "roots/wp-config": "1.0.0",
+    "roots/wp-password-bcrypt": "1.0.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.4",
