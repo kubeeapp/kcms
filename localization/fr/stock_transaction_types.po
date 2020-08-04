@@ -1,0 +1,46 @@
+# Translators:
+# Bernd Bestel <bernd@berrnd.de>, 2019
+# Guillaume RICHARD <giz.richard@gmail.com>, 2020
+# Zkryvix <angelo.frangione@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-01T17:59:17+00:00\n"
+"PO-Revision-Date: 2019-05-01 17:42+0000\n"
+"Last-Translator: Zkryvix <angelo.frangione@gmail.com>, 2020\n"
+"Language-Team: French (https://www.transifex.com/grocy/teams/93189/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: grocy/stock_transaction_types\n"
+
+msgid "purchase"
+msgstr "Achat"
+
+msgid "transfer_from"
+msgstr "transféré depuis"
+
+msgid "transfer_to"
+msgstr "transféré à"
+
+msgid "consume"
+msgstr "Consommation"
+
+msgid "inventory-correction"
+msgstr "Correction d'inventaire"
+
+msgid "product-opened"
+msgstr "Produit ouvert"
+
+msgid "stock-edit-old"
+msgstr "Éditer l'ancien stock"
+
+msgid "stock-edit-new"
+msgstr "Éditer le nouveau stock"
+
+msgid "self-production"
+msgstr "Autoproduction"

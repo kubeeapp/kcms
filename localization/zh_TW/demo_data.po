@@ -1,0 +1,358 @@
+# Translators:
+# jd615645 <jd615645@gmail.com>, 2020
+# richegg Tsai <zxp86021@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-01T17:59:17+00:00\n"
+"PO-Revision-Date: 2019-05-01 17:42+0000\n"
+"Last-Translator: richegg Tsai <zxp86021@gmail.com>, 2020\n"
+"Language-Team: Chinese (Taiwan) (https://www.transifex.com/grocy/teams/93189/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: grocy/demo_data\n"
+
+msgid "Cookies"
+msgstr "餅乾"
+
+msgid "Chocolate"
+msgstr "巧克力"
+
+msgid "Pantry"
+msgstr "食物儲藏室"
+
+msgid "Candy cupboard"
+msgstr "糖果櫃"
+
+msgid "Tinned food cupboard"
+msgstr "罐頭儲藏櫃"
+
+msgid "Fridge"
+msgstr "冰箱"
+
+msgid "Piece"
+msgid_plural "Pieces"
+msgstr[0] "件"
+
+msgid "Pack"
+msgid_plural "Packs"
+msgstr[0] "包"
+
+msgid "Glass"
+msgid_plural "Glasses"
+msgstr[0] "杯"
+
+msgid "Tin"
+msgid_plural "Tins"
+msgstr[0] "罐"
+
+msgid "Can"
+msgid_plural "Cans"
+msgstr[0] "罐"
+
+msgid "Bunch"
+msgid_plural "Bunches"
+msgstr[0] "綑"
+
+msgid "Gummy bears"
+msgstr "小熊軟糖"
+
+msgid "Crisps"
+msgstr "洋芋片"
+
+msgid "Eggs"
+msgstr "雞蛋"
+
+msgid "Noodles"
+msgstr "麵條"
+
+msgid "Pickles"
+msgstr "醃黃瓜"
+
+msgid "Gulash soup"
+msgstr "匈牙利湯"
+
+msgid "Yogurt"
+msgstr "優格"
+
+msgid "Cheese"
+msgstr "起司"
+
+msgid "Cold cuts"
+msgstr "午餐肉"
+
+msgid "Paprika"
+msgstr "辣椒"
+
+msgid "Cucumber"
+msgstr "黃瓜"
+
+msgid "Radish"
+msgstr "蘿蔔"
+
+msgid "Tomato"
+msgstr "番茄"
+
+msgid "Changed towels in the bathroom"
+msgstr "浴室毛巾"
+
+msgid "Cleaned the kitchen floor"
+msgstr "清理廚房地板"
+
+msgid "Warranty ends"
+msgstr "過保固"
+
+msgid "TV remote control"
+msgstr "電視遙控器"
+
+msgid "Alarm clock"
+msgstr "鬧鐘"
+
+msgid "Heat remote control"
+msgstr "暖爐遙控器"
+
+msgid "Lawn mowed in the garden"
+msgstr "清理花園草坪"
+
+msgid "Some good snacks"
+msgstr "美味零食"
+
+msgid "Pizza dough"
+msgstr "披薩麵團"
+
+msgid "Sieved tomatoes"
+msgstr "精選番茄"
+
+msgid "Salami"
+msgstr "義大利香腸"
+
+msgid "Toast"
+msgstr "吐司"
+
+msgid "Minced meat"
+msgstr "絞肉"
+
+msgid "Pizza"
+msgstr "披薩"
+
+msgid "Spaghetti bolognese"
+msgstr "番茄肉醬意大利麵"
+
+msgid "Sandwiches"
+msgstr "三明治"
+
+msgid "English"
+msgstr "英文"
+
+msgid "German"
+msgstr "德文"
+
+msgid "Italian"
+msgstr "義大利文"
+
+msgid "This is the note content of the recipe ingredient"
+msgstr "這是配方表中的標示內容"
+
+msgid "Demo User"
+msgstr "測試用戶"
+
+msgid "Gram"
+msgid_plural "Grams"
+msgstr[0] "克"
+
+msgid "Flour"
+msgstr "麵粉"
+
+msgid "Pancakes"
+msgstr "烤餅"
+
+msgid "Sugar"
+msgstr "糖"
+
+msgid "Home"
+msgstr "首頁"
+
+msgid "Life"
+msgstr "生命"
+
+msgid "Projects"
+msgstr "專案"
+
+msgid "Repair the garage door"
+msgstr "修理車庫門"
+
+msgid "Fork and improve grocy"
+msgstr "協助改進 grocy"
+
+msgid "Find a solution for what to do when I forget the door keys"
+msgstr "規劃當我忘記鑰匙時的解決辦法"
+
+msgid "Sweets"
+msgstr "甜食"
+
+msgid "Bakery products"
+msgstr "烘焙用品"
+
+msgid "Tinned food"
+msgstr "罐裝食品"
+
+msgid "Butchery products"
+msgstr "肉類食品"
+
+msgid "Vegetables/Fruits"
+msgstr "蔬果"
+
+msgid "Refrigerated products"
+msgstr "冷藏食品"
+
+msgid "Coffee machine"
+msgstr "咖啡機"
+
+msgid "Dishwasher"
+msgstr "洗碗機"
+
+msgid "Liter"
+msgstr "公升"
+
+msgid "Liters"
+msgstr "公升"
+
+msgid "Bottle"
+msgstr "瓶"
+
+msgid "Bottles"
+msgstr "瓶"
+
+msgid "Milk"
+msgstr "牛奶"
+
+msgid "Chocolate sauce"
+msgstr "巧克力醬"
+
+msgid "Milliliters"
+msgstr "毫升"
+
+msgid "Milliliter"
+msgstr "毫升"
+
+msgid "Bottom"
+msgstr "底部"
+
+msgid "Topping"
+msgstr "配料"
+
+msgid "French"
+msgstr "法文"
+
+msgid "Turkish"
+msgstr "土耳其文"
+
+msgid "Spanish"
+msgstr "西班牙文"
+
+msgid "Russian"
+msgstr "俄文"
+
+msgid "The thing which happens on the 5th of every month"
+msgstr "每月 5 號發生的事情"
+
+msgid "The thing which happens daily"
+msgstr "每天發生的事情"
+
+msgid "The thing which happens on Mondays and Wednesdays"
+msgstr "每周一與每周三會發生的事情"
+
+msgid "Swedish"
+msgstr "瑞典文"
+
+msgid "Polish"
+msgstr "波蘭文"
+
+msgid "Milk Chocolate"
+msgstr "牛奶巧克力"
+
+msgid "Dark Chocolate"
+msgstr "黑巧克力"
+
+msgid "Slice"
+msgid_plural "Slices"
+msgstr[0] "切片"
+
+msgid "Example userentity"
+msgstr "使用者自訂項目範例"
+
+msgid "This is an example user entity..."
+msgstr "這是一個使用者自訂項目範例"
+
+msgid "Custom field"
+msgstr "自訂欄位"
+
+msgid "Example field value..."
+msgstr "範例值"
+
+msgid "Waffle rolls"
+msgstr "蛋捲"
+
+msgid "Danish"
+msgstr "丹麥文"
+
+msgid "Dutch"
+msgstr "荷蘭文"
+
+msgid "Norwegian"
+msgstr "挪威文"
+
+msgid "Demo"
+msgstr "範例"
+
+msgid "Stable version"
+msgstr "穩定版本"
+
+msgid "Preview version"
+msgstr "預覽版本"
+
+msgid "current release"
+msgstr "當前版本"
+
+msgid "not yet released"
+msgstr "尚未發布"
+
+msgid "Portuguese (Brazil)"
+msgstr "葡萄牙文（巴西）"
+
+msgid "This is a note"
+msgstr "這是一則備註"
+
+msgid "Freezer"
+msgstr "冷凍庫"
+
+msgid "Hungarian"
+msgstr "匈牙利文"
+
+msgid "Slovak"
+msgstr "斯洛伐克文"
+
+msgid "Czech"
+msgstr "捷克文"
+
+msgid "Portuguese (Portugal)"
+msgstr "葡萄牙文（葡萄牙）"
+
+# Use a in your country well known supermarket name
+msgid "DemoSupermarket1"
+msgstr "範例超市1"
+
+# Use a in your country well known supermarket name
+msgid "DemoSupermarket2"
+msgstr "範例超市2"
+
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "Chinese (Taiwan)"
+msgstr "正體中文（臺灣）"

@@ -1,0 +1,374 @@
+# Translators:
+# Adriaan Peeters <apeeters@lashout.net>, 2019
+# Grocy NL, 2019
+# Seppe <van.winkel.seppe@me.com>, 2019
+# Engelbert Mercelis <engelbertmercelis@gmail.com>, 2019
+# Niels Tholenaar <info@123quality.nl>, 2019
+# Frank Klaassen <frank@frankklaassen.nl>, 2019
+# gggg <bashankamp@gmail.com>, 2019
+# Kees van Nieuwenhuijzen <kees@vannieuwenhuijzen.com>, 2019
+# Llewy <carlvanoene@gmail.com>, 2019
+# Bastien Van Houdt <bastienvanhoudt@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-01T17:59:17+00:00\n"
+"PO-Revision-Date: 2019-05-01 17:42+0000\n"
+"Last-Translator: Bastien Van Houdt <bastienvanhoudt@gmail.com>, 2020\n"
+"Language-Team: Dutch (https://www.transifex.com/grocy/teams/93189/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: grocy/demo_data\n"
+
+msgid "Cookies"
+msgstr "Koekjes"
+
+msgid "Chocolate"
+msgstr "Chocolade"
+
+msgid "Pantry"
+msgstr "Voorraadkast"
+
+msgid "Candy cupboard"
+msgstr "Snoepjeskast"
+
+msgid "Tinned food cupboard"
+msgstr "Blikkenkast"
+
+msgid "Fridge"
+msgstr "Koelkast"
+
+msgid "Piece"
+msgid_plural "Pieces"
+msgstr[0] "Stuk"
+msgstr[1] "Stuks"
+
+msgid "Pack"
+msgid_plural "Packs"
+msgstr[0] "pak"
+msgstr[1] "pakken"
+
+msgid "Glass"
+msgid_plural "Glasses"
+msgstr[0] "Glas"
+msgstr[1] "Glazen"
+
+msgid "Tin"
+msgid_plural "Tins"
+msgstr[0] "Blikje"
+msgstr[1] "Blikjes"
+
+msgid "Can"
+msgid_plural "Cans"
+msgstr[0] "Blik"
+msgstr[1] "Blikken"
+
+msgid "Bunch"
+msgid_plural "Bunches"
+msgstr[0] "Bos"
+msgstr[1] "Bossen"
+
+msgid "Gummy bears"
+msgstr "Gombeertjes"
+
+msgid "Crisps"
+msgstr "Chips"
+
+msgid "Eggs"
+msgstr "Eieren"
+
+msgid "Noodles"
+msgstr "Noedels"
+
+msgid "Pickles"
+msgstr "Augurken"
+
+msgid "Gulash soup"
+msgstr "Goulashsoep"
+
+msgid "Yogurt"
+msgstr "Yoghurt"
+
+msgid "Cheese"
+msgstr "Kaas"
+
+msgid "Cold cuts"
+msgstr "Beleg"
+
+msgid "Paprika"
+msgstr "Paprika"
+
+msgid "Cucumber"
+msgstr "Komkommer"
+
+msgid "Radish"
+msgstr "Radijs"
+
+msgid "Tomato"
+msgstr "Tomaat"
+
+msgid "Changed towels in the bathroom"
+msgstr "Handdoeken verwisseld in badkamer"
+
+msgid "Cleaned the kitchen floor"
+msgstr "De keukenvloer schoongemaakt"
+
+msgid "Warranty ends"
+msgstr "Garantie eindigt"
+
+msgid "TV remote control"
+msgstr "Afstandsbediening"
+
+msgid "Alarm clock"
+msgstr "Wekker"
+
+msgid "Heat remote control"
+msgstr "Afstandsbediening verwarming"
+
+msgid "Lawn mowed in the garden"
+msgstr "Gazon gemaaid in de tuin"
+
+msgid "Some good snacks"
+msgstr "Enkele goede hapjes"
+
+msgid "Pizza dough"
+msgstr "Pizzadeeg"
+
+msgid "Sieved tomatoes"
+msgstr "Gezeefde tomaten"
+
+msgid "Salami"
+msgstr "Salami"
+
+msgid "Toast"
+msgstr "Geroosterd brood"
+
+msgid "Minced meat"
+msgstr "Gehakt"
+
+msgid "Pizza"
+msgstr "Pizza"
+
+msgid "Spaghetti bolognese"
+msgstr "Spaghetti bolognese"
+
+msgid "Sandwiches"
+msgstr "Sandwiches"
+
+msgid "English"
+msgstr "Engels"
+
+msgid "German"
+msgstr "Duits"
+
+msgid "Italian"
+msgstr "Italiaans"
+
+msgid "This is the note content of the recipe ingredient"
+msgstr "Dit is de inhoud van de opmerking van het recept-ingrediënt"
+
+msgid "Demo User"
+msgstr "Demo Gebruiker"
+
+msgid "Gram"
+msgid_plural "Grams"
+msgstr[0] "Gram"
+msgstr[1] "Grams"
+
+msgid "Flour"
+msgstr "Bloem"
+
+msgid "Pancakes"
+msgstr "Pannenkoeken"
+
+msgid "Sugar"
+msgstr "Suiker"
+
+msgid "Home"
+msgstr "Thuis"
+
+msgid "Life"
+msgstr "Leven"
+
+msgid "Projects"
+msgstr "Projecten"
+
+msgid "Repair the garage door"
+msgstr "De garagedeur repareren"
+
+msgid "Fork and improve grocy"
+msgstr "Fork en verbeter grocy"
+
+msgid "Find a solution for what to do when I forget the door keys"
+msgstr "Zoek een oplossing voor wat te doen als ik de deursleutels vergeet"
+
+msgid "Sweets"
+msgstr "Snoep"
+
+msgid "Bakery products"
+msgstr "Bakkerijproducten"
+
+msgid "Tinned food"
+msgstr "Ingeblikt voedsel"
+
+msgid "Butchery products"
+msgstr "Vleeswaren"
+
+msgid "Vegetables/Fruits"
+msgstr "Groenten/Fruit"
+
+msgid "Refrigerated products"
+msgstr "Gekoelde producten"
+
+msgid "Coffee machine"
+msgstr "Koffiemachine"
+
+msgid "Dishwasher"
+msgstr "Afwasmachine"
+
+msgid "Liter"
+msgstr "Liter"
+
+msgid "Liters"
+msgstr "Liters"
+
+msgid "Bottle"
+msgstr "Fles"
+
+msgid "Bottles"
+msgstr "Flessen"
+
+msgid "Milk"
+msgstr "Melk"
+
+msgid "Chocolate sauce"
+msgstr "Chocoladesaus"
+
+msgid "Milliliters"
+msgstr "Milliliters"
+
+msgid "Milliliter"
+msgstr "Milliliter"
+
+msgid "Bottom"
+msgstr "Onderkant"
+
+msgid "Topping"
+msgstr "Beleg"
+
+msgid "French"
+msgstr "Frans"
+
+msgid "Turkish"
+msgstr "Turks"
+
+msgid "Spanish"
+msgstr "Spaans"
+
+msgid "Russian"
+msgstr "Russisch"
+
+msgid "The thing which happens on the 5th of every month"
+msgstr "Het ding dat op de 5e van elke maand gebeurt"
+
+msgid "The thing which happens daily"
+msgstr "Het ding dat dagelijks gebeurt"
+
+msgid "The thing which happens on Mondays and Wednesdays"
+msgstr "Het ding dat op maandag en woensdag gebeurt"
+
+msgid "Swedish"
+msgstr "Zweeds"
+
+msgid "Polish"
+msgstr "Pools"
+
+msgid "Milk Chocolate"
+msgstr "Melk Chocolade"
+
+msgid "Dark Chocolate"
+msgstr "Pure Chocolade"
+
+msgid "Slice"
+msgid_plural "Slices"
+msgstr[0] "Punt"
+msgstr[1] "Puntjes"
+
+msgid "Example userentity"
+msgstr "Voorbeeld gebruikersentiteit"
+
+msgid "This is an example user entity..."
+msgstr "Dit is een voorbeeld van een gebruikers entiteit......"
+
+msgid "Custom field"
+msgstr "Custom veld"
+
+msgid "Example field value..."
+msgstr "Voorbeeld veld waarde...."
+
+msgid "Waffle rolls"
+msgstr "Wafel rollen"
+
+msgid "Danish"
+msgstr "Deens"
+
+msgid "Dutch"
+msgstr "Nederlands"
+
+msgid "Norwegian"
+msgstr "Norwegen"
+
+msgid "Demo"
+msgstr "Demo"
+
+msgid "Stable version"
+msgstr "Stabiele versie"
+
+msgid "Preview version"
+msgstr "Preview versie"
+
+msgid "current release"
+msgstr "Huidige versie"
+
+msgid "not yet released"
+msgstr "Nog niet uitgegeven"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugees (Brazilië)"
+
+msgid "This is a note"
+msgstr "Dit is een notitie"
+
+msgid "Freezer"
+msgstr "diepvriezer"
+
+msgid "Hungarian"
+msgstr "Hongaars"
+
+msgid "Slovak"
+msgstr "Slovaaks"
+
+msgid "Czech"
+msgstr "Tsjechisch"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugees (Portugal)"
+
+# Use a in your country well known supermarket name
+msgid "DemoSupermarket1"
+msgstr ""
+
+# Use a in your country well known supermarket name
+msgid "DemoSupermarket2"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Chinese (Taiwan)"
+msgstr ""
