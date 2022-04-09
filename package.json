@@ -26,7 +26,7 @@
 		"jquery": "3.4.1",
 		"jquery-lazy": "^1.7.10",
 		"jquery-serializejson": "^2.9.0",
-		"moment": "^2.24.0",
+		"moment": "^2.29.2",
 		"nosleep.js": "^0.9.0",
 		"quagga": "https://github.com/serratus/quaggaJS.git#master",
 		"sprintf-js": "^1.1.2",
